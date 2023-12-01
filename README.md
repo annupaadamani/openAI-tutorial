@@ -1,6 +1,5 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Aayush Damani
+# Welcome to tutorial page!!
+Files in this page:
+1. README.md - Overview of content
+2. load_env.py - Set environment variable for your API key
+3. pilot_openai.py - Generate response based on user inputs using GPT 3.5 turbo model
